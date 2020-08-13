@@ -47,7 +47,9 @@
     <Compile Include="BetweenTowSets.cs" />
     <Compile Include="BirthdayChocolate.cs" />
     <Compile Include="BreakingTheRecords.cs" />
+    <Compile Include="DivisibleSumPairs.cs" />
     <Compile Include="kangaroo.cs" />
+    <Compile Include="MigratoryBirds.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
